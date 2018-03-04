@@ -25,7 +25,7 @@
 		<p>
 			Joint limits and maximum joint velocities are based on the information
 			found in the online
-			http://www.motoman.com/datasheets/gp25.pdf
+			https://www.motoman.com/hubfs/Robots/GP25.pdf
 			All urdfs are based on the default motion and joint velocity limits,
 			unless noted otherwise.
 		</p>
