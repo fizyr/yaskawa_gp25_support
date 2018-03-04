@@ -1,6 +1,6 @@
 <package>
 	<name>yaskawa_gp25_support</name>
-	<version>0.0.2</version>
+	<version>0.1.0</version>
 	<license>Apache v2.0</license>
 	<maintainer email="maarten@de-vri.es">Maarten de Vries</maintainer>
 	<author email="maarten@de-vri.es">Maarten de Vries</author>
